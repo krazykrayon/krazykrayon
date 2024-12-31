@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Krish, an ECE undergrad at UT. I'm finally learning Git!! 
+I will hopefully populate this profile with some (mostly) cool projects.
+
 <!--
 **krazykrayon/krazykrayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
